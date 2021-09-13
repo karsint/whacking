@@ -1,10 +1,9 @@
 # whack
-\ ˈ(h)wak  \
-whacked; whacking; whacks
+\ ˈ(h)wak  \  whacked; whacking; whacks
 Definition of whack (Entry 1 of 2)
 transitive verb
 1a: to strike with a smart or resounding blow
-"whack the ball"
+  "whack the ball"
 b: to cut with or as if with a whack : CHOP
 2-chiefly British : to get the better of : DEFEAT
 3-slang : MURDER, KILL
